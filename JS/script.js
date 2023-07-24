@@ -23,8 +23,8 @@ let data = [
   {
     id:"item-4",
     name:"PUMA",
-    price:210
-    img:"../images/bag4.png",
+    price:210,
+     img:"../images/bag4.png",
   },
   {
     id:"item-5",
